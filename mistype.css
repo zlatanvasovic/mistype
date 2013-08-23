@@ -1,0 +1,146 @@
+/*! Mistype | MIT license | http://git.io/mistype */
+
+/*
+ * Reset
+ */
+
+* {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+}
+
+/*
+ * Scaffolding
+ */
+
+body {
+     padding-top: 10px;
+  padding-bottom: 10px;
+  font: 14px/20px sans-serif;
+  color: #666;
+  background: #fff;
+}
+
+a {
+  color: #2ea3ce;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 0;
+  border-top: 1px solid #999;
+}
+
+/* Nuke margins */
+p, ul, ol, table, form, pre,
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 10px;
+}
+
+/*
+ * Grid
+ */
+
+.container {
+  max-width: 940px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container:before,
+.container:after {
+  display: table;
+  content: " ";
+}
+
+.container:after {
+  clear: both;
+}
+
+/* Column styles */
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  position: relative;
+  float: left;
+  min-height: 1px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+/* Sizing */
+.col-1  {width: 8.333333333333332%;}
+.col-2  {width: 16.666666666666664%;}
+.col-3  {width: 25%;}
+.col-4  {width: 33.33333333333333%;}
+.col-5  {width: 41.66666666666667%;}
+.col-6  {width: 50%;}
+.col-7  {width: 58.333333333333336%;}
+.col-8  {width: 66.66666666666666%;}
+.col-9  {width: 75%;}
+.col-10 {width: 83.33333333333334%;}
+.col-11 {width: 91.66666666666666%;}
+.col-12 {width: 100%;}
+
+/*
+ * Typography
+ */
+
+/* Emphasis */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sup {top: -0.5em;}
+sub {bottom: -0.25em;}
+
+/*
+ * Utilities
+ */
+
+/* Clearfix [http://nicolasgallagher.com/micro-clearfix-hack/] */
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/* Pulls */
+.pull-right {float: right !important;}
+.pull-left  {float: left !important;}
+
+/* Display utilities */
+.hide {display: none !important;}
+.show {display: block !important;}
+.invisible {visibility: hidden !important;}
+
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
