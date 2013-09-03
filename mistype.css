@@ -52,6 +52,7 @@ h1, h2, h3, h4, h5, h6 {
  * Grid
  */
 
+/* Container */
 .container {
   max-width: 940px;
   margin-right: auto;
@@ -139,6 +140,7 @@ sub {bottom: -0.25em;}
 /* Display utilities */
 .hide {display: none !important;}
 .show {display: block !important;}
+
 .invisible {visibility: hidden !important;}
 
 .hidden {
