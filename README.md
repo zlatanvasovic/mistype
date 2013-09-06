@@ -8,7 +8,8 @@ Licensed under the terms of MIT license.
 
 ## Components
 
-* **Reset** - simple reset, you can replace it with [Normalize](https://github.com/necolas/normalize.css)
+* **Reset** - simple reset, you can replace it with
+[Normalize](https://github.com/necolas/normalize.css)
 * **Scaffolding** - basic properties
 * **Grid** - mobile-first container and columns
 * **Typography** - the most of type is set in UA styles, so here is just a fix for few elements
