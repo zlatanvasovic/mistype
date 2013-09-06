@@ -18,8 +18,7 @@
  */
 
 body {
-     padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 5%;
   font: 14px/20px sans-serif;
   color: #666;
   background-color: #fff;
@@ -30,13 +29,10 @@ a {
   text-decoration: none;
 }
 
-a:hover,
-a:focus {
-  text-decoration: underline;
-}
+a:hover {text-decoration: underline;}
 
 hr {
-     margin-top: 10px;
+  margin-top: 10px;
   margin-bottom: 10px;
   border: 0;
   border-top: 1px solid #999;
@@ -56,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   max-width: 940px;
   margin-right: auto;
-   margin-left: auto;
+  margin-left: auto;
 }
 
 .container:before,
@@ -65,9 +61,7 @@ h1, h2, h3, h4, h5, h6 {
   content: " ";
 }
 
-.container:after {
-  clear: both;
-}
+.container:after {clear: both;}
 
 /* Column styles */
 .col-1,
@@ -86,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   min-height: 1px;
   padding-right: 10px;
-   padding-left: 10px;
+  padding-left: 10px;
 }
 
 /* Sizing */
@@ -129,11 +123,9 @@ sub {bottom: -0.25em;}
   content: " ";
 }
 
-.clearfix:after {
-  clear: both;
-}
+.clearfix:after {clear: both;}
 
-/* Pulls */
+/* Floats */
 .pull-right {float: right !important;}
 .pull-left  {float: left !important;}
 
