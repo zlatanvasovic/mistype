@@ -18,50 +18,44 @@
  */
 
 body {
-  padding: 5%;
+  padding: 2%;
   font: 14px/20px sans-serif;
   color: #666;
   background-color: #fff;
 }
 
-a {
-  color: #09c;
-  text-decoration: none;
-}
-
-a:hover {text-decoration: underline;}
-
 hr {
-  margin-top: 10px;
-  margin-bottom: 10px;
   border: 0;
   border-top: 1px solid #999;
 }
 
 /* Nuke margins */
-p, ul, ol, pre, table, form,
+hr, pre, p, ul, ol,
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
+}
+
+ul ul, ul ol,
+ol ul, ol ol {
+  margin-bottom: 0;
 }
 
 /*
  * Grid
  */
 
-/* Container */
+/* Centered container */
 .container {
-  max-width: 940px;
+  max-width: 95%;
   margin-right: auto;
   margin-left: auto;
 }
 
-.container:before,
-.container:after {
-  display: table;
-  content: " ";
+/* Wrapper for a series of columns */
+.row {
+  margin-right: -1%;
+  margin-left: -1%;
 }
-
-.container:after {clear: both;}
 
 /* Column styles */
 .col-1,
@@ -77,13 +71,13 @@ h1, h2, h3, h4, h5, h6 {
 .col-11,
 .col-12 {
   position: relative;
+  display: inline-block;
   float: left;
-  min-height: 1px;
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: 1%;
+  padding-left: 1%;
 }
 
-/* Sizing */
+/* Precise 12-column sizing */
 .col-1  {width: 8.333333333333332%;}
 .col-2  {width: 16.666666666666664%;}
 .col-3  {width: 25%;}
@@ -118,12 +112,20 @@ sub {bottom: -0.25em;}
 
 /* Clearfix [http://nicolasgallagher.com/micro-clearfix-hack/] */
 .clearfix:before,
-.clearfix:after {
+.clearfix:after,
+.container:before,
+.container:after,
+.row:before,
+.row:after {
   display: table;
   content: " ";
 }
 
-.clearfix:after {clear: both;}
+.clearfix:after,
+.container:after,
+.row:after {
+  clear: both;
+}
 
 /* Floats */
 .pull-right {float: right !important;}
@@ -133,7 +135,7 @@ sub {bottom: -0.25em;}
 .hide {display: none !important;}
 .show {display: block !important;}
 
-.invisible {visibility: hidden !important;}
+.invisible {visibility: hidden;}
 
 .hidden {
   display: none !important;
