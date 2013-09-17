@@ -1,21 +1,16 @@
 /*! Mistype | MIT license | http://git.io/mistype */
 
 /*
- * Reset
+ * Scaffolding
  */
 
-* {
-  position: relative;
-  padding: 0;
-  margin: 0;
+*,
+*:before,
+*:after {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
-
-/*
- * Scaffolding
- */
 
 body {
   padding: 2%;
@@ -35,8 +30,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
-ul ul, ul ol,
-ol ul, ol ol {
+ul ul,
+ul ol,
+ol ul,
+ol ol {
   margin-bottom: 0;
 }
 
@@ -47,8 +44,7 @@ ol ul, ol ol {
 /* Centered container */
 .container {
   max-width: 96%;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
 }
 
 /* Wrapper for a series of columns */
@@ -95,7 +91,7 @@ ol ul, ol ol {
  * Typography
  */
 
-/* Emphasis */
+/* Subscript and superscript */
 sub,
 sup {
   font-size: 75%;
