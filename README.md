@@ -9,12 +9,13 @@ Licensed under the terms of MIT license.
 
 ## Components
 
-* **Reset** — simple reset
-* **Scaffolding** — basic properties
+* **Scaffolding** — basic page properties
 * **Grid** — mobile-first container and columns
 * **Typography** — the most of type is set in UA styles, here is just `<sub>`
 and `<sup>` styles
 * **Utilities** — float and display utilities, includes clearfix
+
+It is recommended to combine Mistype with [Normalize.css](https://github.com/necolas/normalize.css).
 
 ## Author
 
