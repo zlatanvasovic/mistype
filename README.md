@@ -2,20 +2,21 @@
 
 **Simple CSS framework. Grid. Type. Utility.**
 
-Mistype is a set of tools that helps you to easily design your new site. It is
-just simple prototyping framework.
+Mistype is a set of tools that helps you to design new site. It is simple
+prototyping framework.
 
 Licensed under the terms of MIT license.
 
 ## Components
 
-* **Scaffolding** — basic page properties
-* **Grid** — mobile-first container and columns
-* **Typography** — the most of type is set in UA styles, here is just `<sub>`
+* **Scaffolding** — basic element properties
+* **Grid** — mobile-first container, row and column styles
+* **Typography** — UA styles have the most of type styles, here is just `<sub>`
 and `<sup>` styles
-* **Utilities** — float and display utilities, includes clearfix
+* **Utilities** — float and display utilities, including clearfix
 
-It is recommended to combine Mistype with [Normalize.css](https://github.com/necolas/normalize.css).
+It is recommended to combine Mistype with
+[Normalize.css](https://github.com/necolas/normalize.css).
 
 ## Author
 
