@@ -53,7 +53,7 @@ ol ol {
   margin-left: -1%;
 }
 
-/* Column styles */
+/* Base column styles */
 .col-1,
 .col-2,
 .col-3,
@@ -63,9 +63,7 @@ ol ol {
 .col-7,
 .col-8,
 .col-9,
-.col-10,
-.col-11,
-.col-12 {
+.col-10 {
   position: relative;
   display: inline-block;
   float: left;
@@ -73,19 +71,17 @@ ol ol {
   padding-left: 1%;
 }
 
-/* Precise 12-column sizing */
-.col-1  {width: 8.333333333333332%;}
-.col-2  {width: 16.666666666666664%;}
-.col-3  {width: 25%;}
-.col-4  {width: 33.33333333333333%;}
-.col-5  {width: 41.66666666666667%;}
-.col-6  {width: 50%;}
-.col-7  {width: 58.333333333333336%;}
-.col-8  {width: 66.66666666666666%;}
-.col-9  {width: 75%;}
-.col-10 {width: 83.33333333333334%;}
-.col-11 {width: 91.66666666666666%;}
-.col-12 {width: 100%;}
+/* Precise 10-column sizing */
+.col-1  {width: 10%;}
+.col-2  {width: 20%;}
+.col-3  {width: 30%;}
+.col-4  {width: 40%;}
+.col-5  {width: 50%;}
+.col-6  {width: 60%;}
+.col-7  {width: 70%;}
+.col-8  {width: 80%;}
+.col-9  {width: 90%;}
+.col-10 {width: 100%;}
 
 /*
  * Typography
