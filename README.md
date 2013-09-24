@@ -11,8 +11,6 @@ Licensed under the terms of MIT license.
 
 * **Scaffolding** — basic element properties
 * **Grid** — mobile-first container, row and column styles
-* **Typography** — UA styles have the most of type styles, here is just `<sub>`
-and `<sup>` styles
 * **Utilities** — float and display utilities, including clearfix
 
 It is recommended to combine Mistype with
