@@ -4,6 +4,7 @@
  * Scaffolding
  */
 
+/* Re-set box sizing */
 *,
 *:before,
 *:after {
@@ -36,6 +37,17 @@ ol ul,
 ol ol {
   margin-bottom: 0;
 }
+
+/* Subscript and superscript */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sup {top: -0.5em;}
+sub {bottom: -0.25em;}
 
 /*
  * Grid
@@ -84,21 +96,6 @@ ol ol {
 .col-10 {width: 100%;}
 
 /*
- * Typography
- */
-
-/* Subscript and superscript */
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  vertical-align: baseline;
-}
-
-sup {top: -0.5em;}
-sub {bottom: -0.25em;}
-
-/*
  * Utilities
  */
 
@@ -123,13 +120,15 @@ sub {bottom: -0.25em;}
 .pull-right {float: right !important;}
 .pull-left  {float: left !important;}
 
-/* Display utilities */
-.hide {display: none !important;}
+/* Toggling content */
 .show {display: block !important;}
 
-.invisible {visibility: hidden;}
-
-.hidden {
+.hide {
   display: none !important;
   visibility: hidden !important;
 }
+
+.invisible {visibility: hidden;}
+
+/* Screenreaders-only */
+.sr-only {display: none !important;}
