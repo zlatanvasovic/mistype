@@ -83,17 +83,19 @@ sub {bottom: -0.25em;}
   padding-left: 1%;
 }
 
-/* Precise 10-column sizing */
-.col-1  {width: 10%;}
-.col-2  {width: 20%;}
-.col-3  {width: 30%;}
-.col-4  {width: 40%;}
-.col-5  {width: 50%;}
-.col-6  {width: 60%;}
-.col-7  {width: 70%;}
-.col-8  {width: 80%;}
-.col-9  {width: 90%;}
-.col-10 {width: 100%;}
+/* Precise and responsive 10-column sizing */
+@media (min-width: 992px) {
+  .col-1  {width: 10%;}
+  .col-2  {width: 20%;}
+  .col-3  {width: 30%;}
+  .col-4  {width: 40%;}
+  .col-5  {width: 50%;}
+  .col-6  {width: 60%;}
+  .col-7  {width: 70%;}
+  .col-8  {width: 80%;}
+  .col-9  {width: 90%;}
+  .col-10 {width: 100%;}
+}
 
 /*
  * Utilities
