@@ -77,7 +77,6 @@ sub {bottom: -0.25em;}
 .col-9,
 .col-10 {
   position: relative;
-  display: inline-block;
   float: left;
   padding-right: 1%;
   padding-left: 1%;
