@@ -89,7 +89,8 @@ ol ol {
  * Utilities
  */
 
-/* Clearfix [http://nicolasgallagher.com/micro-clearfix-hack/] */
+/* Clearfix
+   [http://nicolasgallagher.com/micro-clearfix-hack/] */
 .clearfix:before,
 .clearfix:after,
 .container:before,
@@ -120,5 +121,15 @@ ol ol {
 
 .invisible {visibility: hidden;}
 
-/* Screenreaders-only */
-.sr-only {display: none !important;}
+/* Screenreaders-only
+   [http://a11yproject.com/posts/how-to-hide-content] */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  border: 0;
+}
