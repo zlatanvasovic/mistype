@@ -38,17 +38,6 @@ ol ol {
   margin-bottom: 0;
 }
 
-/* Subscript and superscript */
-sub,
-sup {
-  font-size: 75%;
-  line-height: 0;
-  vertical-align: baseline;
-}
-
-sup {top: -0.5em;}
-sub {bottom: -0.25em;}
-
 /*
  * Grid
  */
