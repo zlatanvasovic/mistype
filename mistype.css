@@ -116,7 +116,7 @@ ol ol {
 
 .hide {
   display: none !important;
-  visibility: hidden !important;
+  visibility: hidden;
 }
 
 .invisible {visibility: hidden;}
