@@ -73,7 +73,7 @@ ol ol {
   padding-left: 1%;
 }
 
-/* Precise and responsive 10-column sizing */
+/* Responsive 10-column sizing */
 @media (min-width: 992px) {
   .col-1  {width: 10%;}
   .col-2  {width: 20%;}
