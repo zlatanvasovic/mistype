@@ -23,5 +23,5 @@ informations.
 
 **Zlatan Vasović**
 
-* https://twitter.com/zdr0id
-* https://github.com/ZDroid
+* [https://twitter.com/zdr0id](https://twitter.com/zdr0id)
+* [https://github.com/ZDroid](https://github.com/ZDroid)
