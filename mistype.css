@@ -46,7 +46,8 @@ ol ol {
 /* Centered container */
 .container {
   max-width: 96%;
-  margin: 0 auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /* Wrapper for a series of columns */
