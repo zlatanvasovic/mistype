@@ -2,7 +2,7 @@
 
 **Simple CSS framework. Grid. Type. Utility.**
 
-Mistype is a set of tools that helps you to design new site. It's simple
+Mistype is a set of tools that helps you to design new site. It's as simple
 prototyping framework.
 
 Licensed under the terms of MIT license.
