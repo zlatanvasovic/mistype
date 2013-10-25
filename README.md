@@ -16,8 +16,10 @@ Licensed under the terms of MIT license.
 It is recommended to combine Mistype with
 [Normalize.css](https://github.com/necolas/normalize.css).
 
-Read [the wiki](https://github.com/ZDroid/mistype/wiki) for more
-informations.
+## Documentation
+
+If you need help, read
+[the documentation](https://github.com/ZDroid/mistype/wiki).
 
 ## Author
 
