@@ -21,6 +21,8 @@ It is recommended to combine Mistype with
 If you need help, read
 [the documentation](https://github.com/ZDroid/mistype/wiki).
 
+Feel free to open new issue with documentation request.
+
 ## Author
 
 **Zlatan Vasović**
