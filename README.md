@@ -9,7 +9,7 @@ Licensed under the terms of MIT license.
 
 ## Components
 
-* **Scaffolding** — base element styles
+* **Scaffolding** — basic element styles
 * **Grid** — mobile-first container, row and column styles
 * **Utilities** — float and display utilities, including clearfix
 
