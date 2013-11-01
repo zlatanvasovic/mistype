@@ -5,7 +5,7 @@
 Mistype is a set of tools that helps you to design new site. It's a simple
 prototyping framework.
 
-Licensed under the terms of MIT license.
+Licensed under the MIT License.
 
 ## Components
 
