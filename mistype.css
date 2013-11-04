@@ -114,15 +114,15 @@ ol ol {
 .pull-left  { float: left !important; }
 
 /* Toggling content */
-.shown { display: block !important; }
+.shown      { display: block !important; }
 
 .hidden {
   display: none !important;
   visibility: hidden;
 }
 
-.visible   { visibility: visible; }
-.invisible { visibility: hidden; }
+.visible    { visibility: visible; }
+.invisible  { visibility: hidden; }
 
 /* Screenreaders-only content
    [http://a11yproject.com/posts/how-to-hide-content] */
