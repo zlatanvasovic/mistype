@@ -27,7 +27,7 @@ hr {
 }
 
 /* Set base bottom margin (half of line height) */
-hr, pre, p, ul, ol,
+hr, pre, p, ul, ol, dl,
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
