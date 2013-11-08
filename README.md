@@ -18,7 +18,7 @@ It is recommended to combine Mistype with
 
 ## Documentation
 
-If you need help, read
+To go further, read
 [the documentation](https://github.com/ZDroid/mistype/wiki).
 
 ## Author
