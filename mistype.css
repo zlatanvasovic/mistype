@@ -45,7 +45,7 @@ ol ol {
 
 /* Centered container */
 .container {
-  max-width: 96%;
+  width: 96%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -68,13 +68,23 @@ ol ol {
 .col-9,
 .col-10 {
   position: relative;
-  float: left;
   padding-right: 1%;
   padding-left: 1%;
 }
 
 /* Responsive 10-column sizing */
 @media (min-width: 992px) {
+  .col-1,
+  .col-2,
+  .col-3,
+  .col-4,
+  .col-5,
+  .col-6,
+  .col-7,
+  .col-8,
+  .col-9 {
+    float: left;
+  }
   .col-1  { width: 10%; }
   .col-2  { width: 20%; }
   .col-3  { width: 30%; }
