@@ -52,8 +52,8 @@ ol ol {
 
 /* Wrapper for series of columns */
 .row {
-  margin-right: -1%;
-  margin-left: -1%;
+  margin-right: -2%;
+  margin-left: -2%;
 }
 
 /* Base column styles */
@@ -68,8 +68,8 @@ ol ol {
 .col-9,
 .col-10 {
   position: relative;
-  padding-right: 1%;
-  padding-left: 1%;
+  padding-right: 2%;
+  padding-left: 2%;
 }
 
 /* Responsive 10-column sizing */
