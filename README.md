@@ -22,6 +22,10 @@ It is recommended to combine Mistype with
 To go further, read
 [the documentation](https://github.com/ZDroid/mistype/wiki).
 
+## Template
+
+Template lies in `template.html`.
+
 ## Author
 
 **Zlatan Vasović**
