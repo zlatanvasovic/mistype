@@ -13,7 +13,7 @@ Licensed under the MIT License.
 * **Grid** — mobile-first container, row and column styles
 * **Utilities** — float and display utilities, including clearfix
 
-It is recommended to combine Mistype with
+I recommend to combine Mistype with
 [Normalize.css](https://github.com/necolas/normalize.css). There is also
 [a modernized rebase](https://github.com/ZDroid/normalize.css).
 
