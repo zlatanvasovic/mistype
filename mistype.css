@@ -82,7 +82,8 @@ dl ul, dl ol, dl dl {
   .col-6,
   .col-7,
   .col-8,
-  .col-9 {
+  .col-9
+  .col-10 {
     float: left;
   }
   .col-1  { width: 10%; }
