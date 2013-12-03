@@ -19,7 +19,7 @@ I recommend to combine Mistype with
 
 ## Documentation
 
-To go further, read
+To go further of basics, read
 [the documentation](https://github.com/ZDroid/mistype/wiki).
 
 ## Template
