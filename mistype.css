@@ -86,6 +86,7 @@ dl ul, dl ol {
   .col-10 {
     float: left;
   }
+
   .col-1  { width: 10%; }
   .col-2  { width: 20%; }
   .col-3  { width: 30%; }
@@ -124,16 +125,12 @@ dl ul, dl ol {
 .pull-right   { float: right !important; }
 .pull-left    { float: left !important; }
 
-/* Toggling content */
-.shown        { display: block !important; }
-.shown-inline { display: inline-block !important; }
-
+/* Content visibility */
 .hidden {
   display: none !important;
   visibility: hidden;
 }
 
-.visible      { visibility: visible; }
 .invisible    { visibility: hidden; }
 
 /* Screenreaders-only content
