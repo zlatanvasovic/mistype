@@ -32,9 +32,9 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 
-ul ul, ul ol, ul dl,
-ol ul, ol ol, ol dl,
-dl ul, dl ol, dl dl {
+ul ul, ul ol,
+ol ul, ol ol,
+dl ul, dl ol {
   margin-top: 0;
   margin-bottom: 0;
 }
