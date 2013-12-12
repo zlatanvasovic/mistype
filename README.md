@@ -15,7 +15,7 @@ Licensed under the MIT License.
 
 I recommend to combine Mistype with
 [Normalize.css](https://github.com/necolas/normalize.css). There is also
-[a modernized rebase](https://github.com/ZDroid/normalize.css).
+[a modernized rebase](https://github.com/ZDroid/sanitize.css).
 
 ## Documentation
 
