@@ -33,10 +33,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul ul, ul ol,
-ol ul, ol ol,
-dl ul, dl ol {
-  margin-top: 0;
+ol ul, ol ol {
   margin-bottom: 0;
+}
+
+dl {
+  margin-top: 0;
 }
 
 /*
