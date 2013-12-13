@@ -29,16 +29,13 @@ hr {
 /* Set base bottom margin (half of line height) */
 hr, pre, p, ul, ol, dl,
 h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
   margin-bottom: 10px;
 }
 
 ul ul, ul ol,
 ol ul, ol ol {
   margin-bottom: 0;
-}
-
-dl {
-  margin-top: 0;
 }
 
 /*
