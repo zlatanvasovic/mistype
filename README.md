@@ -22,7 +22,7 @@ I recommend to combine Mistype with
 To go further of basics, read
 [the documentation](https://github.com/ZDroid/mistype/wiki).
 
-## Template
+## Basic template
 
 Template lies in `template.html`.
 
