@@ -1,6 +1,6 @@
 # Mistype
 
-**Simple CSS framework. Grid. Type. Utility.**
+> Simple CSS framework. Grid. Type. Utility.
 
 Mistype is a set of tools that helps you to design new site. It's a simple
 prototyping framework.
