@@ -2,7 +2,7 @@
   "name": "mistype",
   "version": "1.3.0",
   "author": "Zlatan Vasović",
-  "description": "Simple CSS framework. Grid. Type. Utility.",
+  "description": "Simple CSS prototyping framework",
   "homepage": "https://github.com/ZDroid/mistype",
   "main": "mistype.css",
   "keywords": [
