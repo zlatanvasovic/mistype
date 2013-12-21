@@ -9,8 +9,8 @@ Licensed under the MIT License.
 
 ## Download
 
-* [Fine-packed ZIP](https://github.com/ZDroid/sanitize.css/archive/master.zip)
-* Bower: `bower install mistype`
+* [**Fine-packed ZIP**](https://github.com/ZDroid/sanitize.css/archive/master.zip)
+* **Bower:** `bower install mistype`
 
 ## Components
 
