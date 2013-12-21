@@ -19,8 +19,7 @@ Licensed under the MIT License.
 * **Utilities** — float and display utilities, including clearfix
 
 I recommend to combine Mistype with
-[Normalize.css](https://github.com/necolas/normalize.css). There is also
-[a modernized rebase](https://github.com/ZDroid/sanitize.css).
+[Sanitize.css](https://github.com/necolas/normalize.css) (Normalize.css fork).
 
 ## Documentation
 
