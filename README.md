@@ -29,10 +29,3 @@ To go further of basics, read
 ## Basic template
 
 Template lies in `template.html`.
-
-## Author
-
-**Zlatan Vasović**
-
-* <https://twitter.com/zdr0id>
-* <https://github.com/ZDroid>
