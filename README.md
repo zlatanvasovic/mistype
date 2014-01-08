@@ -5,8 +5,6 @@
 Mistype is a set of tools that helps you to design new site. It's a simple
 prototyping framework.
 
-Licensed under the MIT License.
-
 ## Download
 
 * [**ZIP package**](https://github.com/ZDroid/sanitize.css/archive/master.zip)
@@ -29,3 +27,7 @@ To go further of basics, read
 ## Basic template
 
 Template lies in `template.html`.
+
+## License
+
+MIT &copy; [Zlatan Vasović](https://github.com/ZDroid)
