@@ -1,14 +1,14 @@
 {
   "name": "mistype",
-  "version": "1.4.0",
   "author": "Zlatan Vasović",
   "description": "Simple CSS prototyping framework",
-  "homepage": "https://github.com/ZDroid/mistype",
-  "main": "mistype.css",
   "keywords": [
     "css",
     "mistype",
     "prototype"
   ],
-  "license": "MIT"
+  "version": "1.4.0",
+  "license": "MIT",
+  "homepage": "https://github.com/ZDroid/mistype",
+  "main": "mistype.css"
 }
