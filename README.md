@@ -12,7 +12,7 @@ prototyping framework.
 
 ## Components
 
-* **Scaffolding:** basic element styles
+* **Scaffolding:** base element styles
 * **Grid:** mobile-first container, row and column styles
 * **Utilities:** float and display utilities, including clearfix
 
