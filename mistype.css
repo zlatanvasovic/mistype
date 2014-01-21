@@ -1,4 +1,15 @@
-/*! Mistype v1.4.0 | MIT License | http://git.io/mistype */
+/*!
+ * Mistype v1.4.0 (http://git.io/mistype)
+ * Licensed under the MIT License.
+ */
+
+/*
+ * Contents
+ *
+ * Scaffolding
+ * Grid
+ * Utilities
+ */
 
 /*
  * Scaffolding
@@ -125,13 +136,15 @@ ol ul, ol ol {
 .pull-right   { float: right !important; }
 .pull-left    { float: left !important; }
 
-/* Content visibility */
+/* Visibility */
 .hidden {
   display: none !important;
   visibility: hidden;
 }
 
-.invisible    { visibility: hidden; }
+.invisible {
+  visibility: hidden;
+}
 
 /* Screenreaders-only content
    [http://a11yproject.com/posts/how-to-hide-content] */
