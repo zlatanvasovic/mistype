@@ -42,7 +42,9 @@ hr {
 hr,
 h1, h2, h3, h4, h5, h6,
 p,
-ul, ol, dl,
+ul,
+ol,
+dl,
 pre {
   margin-top: 0;
   margin-bottom: 10px;
@@ -122,10 +124,10 @@ ol ol {
 /* Clearfix
    [http://nicolasgallagher.com/micro-clearfix-hack/] */
 .clearfix:before,
-.clearfix:after,
 .container:before,
-.container:after,
 .row:before,
+.clearfix:after,
+.container:after,
 .row:after {
   display: table;
   content: " ";
