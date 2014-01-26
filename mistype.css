@@ -3,7 +3,7 @@
  * Licensed under the MIT License.
  */
 
-/*
+/**
  * Contents
  *
  * Scaffolding
@@ -11,11 +11,14 @@
  * Utilities
  */
 
-/*
+/**
  * Scaffolding
  */
 
-/* Reset `box-sizing` */
+/*
+ * Reset `box-sizing`
+ */
+
 *,
 *:before,
 *:after {
@@ -24,7 +27,10 @@
           box-sizing: border-box;
 }
 
-/* Body properties */
+/*
+ * Body properties
+ */
+
 body {
   padding: 2%;
   font: 16px/20px sans-serif;
@@ -32,13 +38,19 @@ body {
   background-color: #fff;
 }
 
-/* Horizontal rules */
+/*
+ * Horizontal rules
+ */
+
 hr {
   border: 0;
   border-top: 1px solid #bbb;
 }
 
-/* Set base margins */
+/*
+ * Base margins
+ */
+
 hr,
 h1, h2, h3, h4, h5, h6,
 p,
@@ -57,24 +69,33 @@ ol ol {
   margin-bottom: 0;
 }
 
-/*
+/**
  * Grid
  */
 
-/* Centered container */
+/*
+ * Centered container
+ */
+
 .container {
   width: 96%;
   margin-right: auto;
   margin-left: auto;
 }
 
-/* Wrapper for series of columns */
+/*
+ * Column wrapper
+ */
+
 .row {
   margin-right: -2%;
   margin-left: -2%;
 }
 
-/* Base column styles */
+/*
+ * Columns
+ */
+
 .col-1,
 .col-2,
 .col-3,
@@ -90,7 +111,6 @@ ol ol {
   padding-left: 2%;
 }
 
-/* Responsive 10-column sizing */
 @media (min-width: 992px) {
   .col-1,
   .col-2,
@@ -117,8 +137,12 @@ ol ol {
   .col-10 { width: 100%; }
 }
 
-/*
+/**
  * Utilities
+ */
+
+/*
+ * Floats
  */
 
 /* Clearfix
@@ -139,11 +163,13 @@ ol ol {
   clear: both;
 }
 
-/* Floats */
 .pull-right { float: right !important; }
 .pull-left  { float: left !important; }
 
-/* Visibility */
+/*
+ * Visibility
+ */
+
 .hidden {
   display: none !important;
   visibility: hidden;
