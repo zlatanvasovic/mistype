@@ -10,6 +10,18 @@
       body {
         padding-bottom: 1%;
       }
+      h1[id],
+      h2[id] {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        color: #aaa;
+      }
+      h1[id]:before {
+        content: "# ";
+      }
+      h2[id]:before {
+        content: "## ";
+      }
       .row {
         margin-bottom: 1%;
       }
@@ -23,43 +35,23 @@
   </head>
   <body>
     <h1 id="type">Typography</h1>
+
+    <h2 id="hr">Horizontal rules</h2>
+    <hr>
+
+    <h2 id="headings">Headings</h2>
     <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <h3>Heading 3</h3>
     <h4>Heading 4</h4>
     <h5>Heading 5</h5>
     <h6>Heading 6</h6>
-    <hr>
+
+    <h2 id="paragraphs">Paragraphs</h2>
     <p>I'm a paragraph.</p>
     <p>I'm another paragraph.</p>
-    <p>
-      <strong>strong</strong>
-      —
-      <em>emphasis</em>
-      —
-      <b>bold</b>
-      —
-      <i>italic</i>
-      —
-      <small>small</small>
-      —
-      <sup>superscript</sup>
-      —
-      <sub>subscript</sub>
-      —
-      <code>code</code>
-      —
-      <kbd>keyboard button</kbd>
-      —
-      <abbr title="abbreviation">abbr</abbr>
-      —
-      <q><q>quote</q> into quote</q>
-    </p>
-    <blockquote>
-      <p>Quoted text.</p>
-      <p><small>Quoted from <cite>"The Magazine"</cite>.</small></p>
-    </blockquote>
-    <pre>I'm a block-level code.</pre>
+
+    <h2 id="lists">Lists</h2>
     <ul>
       <li>item</li>
       <li>
@@ -96,7 +88,43 @@
         </ol>
       </dd>
     </dl>
+
+    <h2 id="emphasis">Emphasis</h2>
+    <p>
+      <strong>strong</strong>
+      —
+      <em>emphasis</em>
+      —
+      <b>bold</b>
+      —
+      <i>italic</i>
+      —
+      <small>small</small>
+      —
+      <sup>superscript</sup>
+      —
+      <sub>subscript</sub>
+      —
+      <abbr title="abbreviation">abbr</abbr>
+    </p>
+
+    <h2 id="quotes">Quotes</h2>
+    <p><q><q>quote</q> into quote</q></p>
+    <blockquote>
+      <p>Quoted text.</p>
+      <p><small>Quoted from <cite>"The Magazine"</cite>.</small></p>
+    </blockquote>
+
+    <h1 id="code">Code</h2>
+    <p>
+      <code>code</code>
+      —
+      <kbd>key</kbd>
+    </p>
+    <pre>I'm a code block.</pre>
+
     <h1 id="grid">Grid</h1>
+
     <div class="container">
       <div class="row">
         <div class="col-10">.col-10</div>
