@@ -3,9 +3,9 @@
   "author": "Zlatan Vasović",
   "description": "Simple CSS prototyping framework",
   "keywords": [
-    "css",
     "mistype",
-    "prototype"
+    "prototype",
+    "css"
   ],
   "version": "1.5.1",
   "license": "MIT",
