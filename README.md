@@ -10,6 +10,15 @@ prototyping framework.
 - [**ZIP package**](https://github.com/ZDroid/sanitize.css/archive/master.zip)
 - **Bower:** `bower install mistype`
 
+## Browser support
+
+- **Chrome**
+- **Chromium**
+- **Firefox**
+- **Opera**
+- **Safari** for OS X and iOS
+- **Internet Explorer 9+**
+
 ## Components
 
 - **Scaffolding:** base element styles
