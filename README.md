@@ -28,11 +28,6 @@ prototyping framework.
 I recommend to combine Mistype with
 [Sanitize.css](https://github.com/necolas/normalize.css) (Normalize.css fork).
 
-## Documentation
-
-To go further of basics, read
-[the documentation](https://github.com/ZDroid/mistype/wiki).
-
 ## Basic template
 
 Template lies in `template.html`.
