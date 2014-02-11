@@ -12,8 +12,7 @@ prototyping framework.
 
 ## Browser support
 
-- **Chrome**
-- **Chromium**
+- **Chrome** and **Chromium**
 - **Firefox**
 - **Opera**
 - **Safari** for OS X and iOS
