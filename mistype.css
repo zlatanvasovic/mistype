@@ -111,6 +111,7 @@ ol ol {
   padding-left: 2%;
 }
 
+/* Responsive sizing */
 @media (min-width: 992px) {
   .col-1,
   .col-2,
@@ -163,6 +164,7 @@ ol ol {
   clear: both;
 }
 
+/* Float element to specific side */
 .pull-right { float: right !important; }
 .pull-left  { float: left !important; }
 
@@ -170,11 +172,13 @@ ol ol {
  * Visibility
  */
 
+/* Hide content from browsers and screen readers */
 .hidden {
   display: none !important;
   visibility: hidden;
 }
 
+/* Hide element visually, but keep it in layout */
 .invisible {
   visibility: hidden;
 }
