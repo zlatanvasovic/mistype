@@ -10,14 +10,6 @@ prototyping framework.
 - [**ZIP package**](https://github.com/ZDroid/sanitize.css/archive/master.zip)
 - **Bower:** `bower install mistype`
 
-## Browser support
-
-- **Chrome** and **Chromium**
-- **Firefox**
-- **Opera**
-- **Safari** for OS X and iOS
-- **Internet Explorer 9+**
-
 ## Components
 
 - **Scaffolding:** base element styles
@@ -30,6 +22,14 @@ I recommend to combine Mistype with
 ## Basic template
 
 Template lies in `template.html`.
+
+## Browser support
+
+- **Chrome** and **Chromium**
+- **Firefox**
+- **Opera**
+- **Safari** for OS X and iOS
+- **Internet Explorer 9+**
 
 ## License
 
