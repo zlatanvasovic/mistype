@@ -111,7 +111,7 @@ ol ol {
   padding-left: 2%;
 }
 
-/* Responsive sizing */
+/* Responsive column sizing */
 @media (min-width: 992px) {
   .col-1,
   .col-2,

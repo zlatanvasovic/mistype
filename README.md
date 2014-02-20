@@ -19,7 +19,7 @@ prototyping framework.
 I recommend to combine Mistype with
 [Sanitize.css](https://github.com/necolas/normalize.css) (Normalize.css fork).
 
-## Basic template
+## Template
 
 Template lies in `template.html`.
 
