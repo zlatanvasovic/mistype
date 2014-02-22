@@ -3,7 +3,7 @@
 > Simple CSS prototyping framework
 
 Mistype is a set of styles that helps you to design new site. It's a simple
-prototyping framework.
+CSS prototyping framework.
 
 ## Download
 
@@ -16,7 +16,7 @@ prototyping framework.
 - **Grid:** mobile-first container, row and column styles
 - **Utilities:** float and display utilities, including clearfix
 
-I recommend to combine Mistype with
+I recommend you to combine Mistype with
 [Sanitize.css](https://github.com/necolas/normalize.css) (Normalize.css fork).
 
 ## Template
@@ -25,10 +25,10 @@ Template lies in `template.html`.
 
 ## Browser support
 
-- **Chrome** and **Chromium**
-- **Firefox**
-- **Opera**
-- **Safari** for OS X and iOS
+- **Chrome** and **Chromium** (latest)
+- **Firefox** (latest)
+- **Opera 12+**
+- **Safari 6+** for OS X and iOS
 - **Internet Explorer 9+**
 
 ## License
