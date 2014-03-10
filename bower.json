@@ -10,5 +10,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ZDroid/mistype",
   "main": "mistype.css",
-  "ignore": ["**/.*"]
+  "ignore": [
+    "**/.*"
+  ]
 }
