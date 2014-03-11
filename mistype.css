@@ -9,6 +9,7 @@
  * Scaffolding
  * Grid
  * Utilities
+ * Media queries
  */
 
 /**
@@ -194,4 +195,24 @@ ol ol {
   overflow: hidden;
   clip: rect(0,0,0,0);
   border: 0;
+}
+
+/**
+ * Media queries
+ */
+
+/*
+ * Mobile-first
+ */
+
+@media (min-width: 992px) {
+  /* Style adjustments for viewports that meet the condition */
+}
+
+/*
+ * Print
+ */
+
+@media print {
+  /* Print styles */
 }
