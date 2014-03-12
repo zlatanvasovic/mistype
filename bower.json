@@ -4,6 +4,7 @@
   "description": "Simple CSS prototyping framework",
   "keywords": [
     "prototype",
+    "template",
     "css"
   ],
   "version": "1.5.1",
