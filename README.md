@@ -13,7 +13,7 @@ CSS prototyping framework.
 ## Components
 
 - **Scaffolding:** base element styles
-- **Grid:** mobile-first container, row and column styles
+- **Grid:** mobile-first container, row and columns
 - **Utilities:** float and display utilities, including clearfix
 - **Media queries:** example media queries for responsive design
 
