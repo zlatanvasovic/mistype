@@ -22,7 +22,7 @@ I recommend you to combine Mistype with
 
 ## Template
 
-Template lies in `template.html`.
+Template lies in `template.html`. You can find some additional styles in it.
 
 ## Browser support
 
