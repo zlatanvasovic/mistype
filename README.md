@@ -17,7 +17,7 @@ CSS prototyping framework.
 - **Utilities:** float and display utilities, including clearfix
 - **Media queries:** example media queries for responsive design
 
-I recommend you to combine Mistype with
+**Tip:** I recommend you to use
 [Sanitize.css](https://github.com/necolas/normalize.css) (Normalize.css fork).
 
 ## Template
