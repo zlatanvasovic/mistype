@@ -1,6 +1,6 @@
 # Mistype
 
-> Simple CSS prototyping framework
+> A simple CSS prototyping framework
 
 Mistype is a set of styles that helps you to design a new site. It's a simple
 CSS prototyping framework.
