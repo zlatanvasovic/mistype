@@ -15,7 +15,7 @@ CSS prototyping framework.
 - **Scaffolding:** base element styles
 - **Grid:** mobile-first container, row and columns
 - **Utilities:** float and display utilities, including clearfix
-- **Media queries:** example media queries for responsive design
+- **Media queries:** examples of media queries for responsive design
 
 **Tip:** I recommend you to use
 [Sanitize.css](https://github.com/necolas/normalize.css) (Normalize.css fork).
