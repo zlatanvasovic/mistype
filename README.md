@@ -3,7 +3,7 @@
 > A simple CSS prototyping framework
 
 Mistype is a set of styles that helps you to design a new site. It's a simple
-CSS prototyping framework.
+CSS prototyping framework, put in a 2.6 kB file.
 
 ## Download
 
