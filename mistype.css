@@ -24,7 +24,9 @@
    box-sizing: border-box;
  }
 
- *, *:before, *:after {
+ *,
+ *:before,
+ *:after {
    box-sizing: inherit;
  }
 
@@ -63,10 +65,8 @@ pre {
   margin-bottom: 10px;
 }
 
-ul ul,
-ul ol,
-ol ul,
-ol ol {
+ul ul, ul ol,
+ol ul, ol ol {
   margin-bottom: 0;
 }
 
