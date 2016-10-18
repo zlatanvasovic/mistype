@@ -16,23 +16,23 @@
         font-size: 40px;
         color: blue;
       }
-      h2[id],
-      h3[id] {
+      h2[id], h3[id], h4[id] {
         margin-top: 2%;
         margin-bottom: 2%;
-        color: #aaa;
+        color: #999;
       }
-      h2[id]:before {
-        content: "## ";
-      }
-      h3[id]:before {
-        content: "### ";
-      }
+      h2[id]:before { content: "## "; }
+      h3[id]:before { content: "### "; }
+      h4[id]:before { content: "#### "; }
+
+      a       { text-decoration: none; }
+      a:hover { text-decoration: underline; }
 
       .row {
         margin-bottom: 1%;
       }
-      [class*="col-"] {
+      [class*="col-"],
+      button {
         padding-top: 1%;
         padding-bottom: 1%;
         background-color: #eee;
@@ -51,12 +51,36 @@
       It's a simple CSS prototyping framework, put in a 2.5 kB file.
     </p>
 
-    <h2 id="type">Typography</h1>
+    <h2 id="download">Download</h2>
+    <p>Downloading and using Mistype is pretty easy.</p>
+    <p>
+      <button><a href="https://github.com/zdroid/mistype/archive/master.zip">ZIP package</a></button>
+      <button><strong>Bower:</strong> <code>bower install mistype</code></button>
+    </p>
 
-    <h3 id="hr">Horizontal rules</h2>
+    <h2 id="browser-support">Browser support</h2>
+    <ul>
+      <li>Chrome (latest)</li>
+      <li>Firefox (latest)</li>
+      <li>Opera (latest)</li>
+      <li>Edge (latest)</li>
+      <li>Safari 7+</li>
+      <li>Internet Explorer 10+</li>
+    </ul>
+
+    <h2 id="components">Components</h2>
+    <p>
+      <strong>Tip:</strong> I recommend you to use
+      <a href="https://github.com/zdroid/codify.css">Codify.css</a>
+      (Normalize.css fork) or Normalize.css besides Mistype.
+    </p>
+
+    <h3 id="type">Typography</h3>
+
+    <h4 id="hr">Horizontal rules</h4>
     <hr>
 
-    <h3 id="headings">Headings</h2>
+    <h4 id="headings">Headings</h4>
     <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <h3>Heading 3</h3>
@@ -64,11 +88,11 @@
     <h5>Heading 5</h5>
     <h6>Heading 6</h6>
 
-    <h3 id="paragraphs">Paragraphs</h2>
+    <h4 id="paragraphs">Paragraphs</h4>
     <p>I'm a paragraph.</p>
     <p>I'm another paragraph.</p>
 
-    <h3 id="lists">Lists</h2>
+    <h4 id="lists">Lists</h4>
     <ul>
       <li>item</li>
       <li>
@@ -106,7 +130,7 @@
       </dd>
     </dl>
 
-    <h3 id="emphasis">Emphasis</h2>
+    <h4 id="emphasis">Emphasis</h4>
     <p>
       <strong>strong</strong>
       &mdash;
@@ -125,14 +149,14 @@
       <abbr title="abbreviation">abbr</abbr>
     </p>
 
-    <h2 id="quotes">Quotes</h2>
+    <h3 id="quotes">Quotes</h3>
     <p><q><q>quote</q> inside a quote</q></p>
     <blockquote>
       <p>I'm a quoted text.</p>
       <p><small>Quoted from <cite>"The Source"</cite>.</small></p>
     </blockquote>
 
-    <h2 id="code">Code</h1>
+    <h3 id="code">Code</h3>
 
     <p>
       <code>code</code>
@@ -141,7 +165,7 @@
     </p>
     <pre>I'm a code block.</pre>
 
-    <h2 id="grid">Grid</h1>
+    <h3 id="grid">Grid</h3>
 
     <div class="container">
       <div class="row">

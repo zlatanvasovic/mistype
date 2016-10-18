@@ -25,7 +25,8 @@ Normalize.css besides Mistype.
 
 ## Examples
 
-The best example of Mistype usage is its own site that lies in `index.html`.
+The best example of Mistype usage is its
+[own site](https://zdroid.github.io/mistype) that lies in `index.html`.
 You can find some additional styles in it.
 
 ## Browser support
