@@ -5,6 +5,8 @@
 Mistype is a set of styles that helps you to design a new site. It's a simple
 CSS prototyping framework, put in a 2.5 kB file.
 
+![Mistype logo](https://raw.github.com/zdroid/mistype/master/assets/logo.png)
+
 ## Download
 
 - [**ZIP package**](https://github.com/zdroid/mistype/archive/master.zip)
@@ -21,9 +23,10 @@ CSS prototyping framework, put in a 2.5 kB file.
 [Codify.css](https://github.com/zdroid/codify.css) (Normalize.css fork) or
 Normalize.css besides Mistype.
 
-## Template
+## Examples
 
-Template lies in `template.html`. You can find some additional styles in it.
+The best example of Mistype usage is its own site that lies in `index.html`.
+You can find some additional styles in it.
 
 ## Browser support
 
