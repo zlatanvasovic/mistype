@@ -20,15 +20,15 @@
  * Reset `box-sizing`
  */
 
- html {
-   box-sizing: border-box;
- }
+html {
+  box-sizing: border-box;
+}
 
- *,
- *:before,
- *:after {
-   box-sizing: inherit;
- }
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
 
 /*
  * Body properties
