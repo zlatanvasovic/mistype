@@ -205,7 +205,7 @@ ol ul, ol ol {
  * Mobile-first
  */
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   /* Style adjustments for viewports that meet the condition */
 }
 
