@@ -4,11 +4,12 @@
   "description": "A simple CSS prototyping framework",
   "keywords": [
     "prototype",
+    "framework",
     "template",
     "front-end",
     "css"
   ],
-  "version": "1.6.0",
+  "version": "1.7.0",
   "license": "MIT",
   "homepage": "https://github.com/zdroid/mistype",
   "main": "mistype.css",
