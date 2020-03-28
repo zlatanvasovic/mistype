@@ -20,8 +20,7 @@ CSS prototyping framework, put in a 2.5 kB file.
 - **Media queries:** examples of media queries for responsive design
 
 **Tip:** I recommend you to use
-[Codify.css](https://github.com/zdroid/codify.css) (Normalize.css fork) or
-Normalize.css besides Mistype.
+[Normalize.css](https://necolas.github.io/normalize.css/) alongside Mistype.
 
 ## Examples
 
