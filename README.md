@@ -5,7 +5,7 @@
 Mistype is a set of styles that helps you to design a new site. It's a simple
 CSS prototyping framework, put in a 2.5 kB file.
 
-![Mistype logo](https://raw.github.com/zdroid/mistype/master/assets/logo.png)
+![Mistype logo](https://raw.github.com/zdroid/mistype/master/assets/mistype.png)
 
 ## Download
 
