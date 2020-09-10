@@ -11,7 +11,7 @@
   ],
   "version": "1.7.0",
   "license": "MIT",
-  "homepage": "https://github.com/zdroid/mistype",
+  "homepage": "https://github.com/zlatanvasovic/mistype",
   "main": "mistype.css",
   "ignore": [
     "**/.*",

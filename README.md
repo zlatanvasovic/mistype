@@ -5,11 +5,11 @@
 Mistype is a set of styles that helps you to design a new site. It's a simple
 CSS prototyping framework, put in a 2.5 kB file.
 
-![Mistype logo](https://raw.github.com/zdroid/mistype/master/assets/mistype.png)
+![Mistype logo](https://raw.github.com/zlatanvasovic/mistype/master/assets/mistype.png)
 
 ## Download
 
-- [**ZIP package**](https://github.com/zdroid/mistype/archive/master.zip)
+- [**ZIP package**](https://github.com/zlatanvasovic/mistype/archive/master.zip)
 - **Bower:** `bower install mistype`
 
 ## Components
@@ -25,7 +25,7 @@ CSS prototyping framework, put in a 2.5 kB file.
 ## Examples
 
 The best example of Mistype usage is its
-[own site](https://zdroid.github.io/mistype) that lies in `index.html`.
+[own site](https://zlatanvasovic.github.io/mistype) that lies in `index.html`.
 You can find some additional styles in it.
 
 ## Browser support
@@ -39,4 +39,4 @@ You can find some additional styles in it.
 
 ## License
 
-MIT &copy; [Zlatan Vasović](https://github.com/zdroid)
+MIT &copy; [Zlatan Vasović](https://github.com/zlatanvasovic)
